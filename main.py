@@ -14,7 +14,6 @@ timeChosen = float(input("How often do you want me to check? (in seconds)\n"))
 # timeChosen = int(input("How many hours do you want me to check?\n"))*hour + int(input("How many minutes?"))*min + int(input("How many seconds?\n"))*sec
 
 #The URL requested to check with
-#url = "https://eng.asu.edu.eg/"
 url = "https://www.google.com"
 
 while down:
