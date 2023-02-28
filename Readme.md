@@ -14,10 +14,8 @@ git clone https://github.com/xHondaa/InternetChecker
 ```
 
 ## Usage
-```bash
-InternetChecker\main.py
-```
-Then open "C:\Users\*User*\InternetChecker\main.py"
+
+Open "C:\Users\\*User*\InternetChecker\main.py"
 
 ## Modification
 You can open the main.py file with any text editor and you will find comments on specific parts you can change to suit your needs such as the method it asks for the delay between each time it checks and the site it checks from
