@@ -1,3 +1,4 @@
+## Introduction
 Internet checker is a simple script I made to either check the status of my internet and have it alert me when it comes back up or check the status of a specific site that's temporarily unavailable.
 
 
