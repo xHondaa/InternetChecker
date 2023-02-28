@@ -5,7 +5,7 @@ All you need to run this script is python and playsound library
 
 ##Setup
 
->pip install playsound==1.2.2
-
+```pip install playsound==1.2.2
+```
 ##Modification
 You can open the main.py file with any text editor and you will find comments on specific parts you can change to suit your needs such as the method it asks for the delay between each time it checks and the site it checks from
